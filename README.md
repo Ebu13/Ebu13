@@ -20,8 +20,9 @@
 </a>
 </details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<details>	
+  <summary><b><h3 align="left">Languages and Tools:</h3></b></summary><br>
+  <p align="left">
   
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer">
     <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="c dili" width="40" height="40" />
@@ -69,3 +70,4 @@
     <img src="assets/php.png" alt="php" width="40" height="40" />
   </a>
 </p>
+</details>
