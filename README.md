@@ -66,3 +66,6 @@
     <img src="assets/php.png" alt="php" width="40" height="40" />
   </a>
 </p>
+<details>	
+  <summary><b><h3>About me;</h3></b></summary><br>
+</details>
