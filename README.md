@@ -2,13 +2,10 @@
   <img alt="Hello, I'm Ebubekir. I do open-source!" src="./assets/gh-readme-header.png" />
   <img alt="GIF video" src="./assets/tenor.gif" />
 </div>
-
 <br />
-
 <h2>I'm a software developer who develops himself and follows new technologies</h2>
-
-<h3>About me;</h3>
-
+<details>	
+  <summary><b><h3>About me;</h3></b></summary><br>
 - 💼 FrontEnd Engineer
 - <img alt="GIF video" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="15px"/> I love writing code
 - 💬 Ask me about anything to fulldevstudios@gmail.com
@@ -17,6 +14,7 @@
 - To be able to see my designs ;
 - Dribbble : https://dribbble.com/devebu<a href="https://dribbble.com/devebu"><img src="assets/dribbble-logo.png" align="left" alt="FullDEV Studios | Dribbble" width="15px" />
 </a>
+</details>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
@@ -66,8 +64,3 @@
     <img src="assets/php.png" alt="php" width="40" height="40" />
   </a>
 </p>
-<details>	
-  <summary><b>Blogs/Article/Publication</b></summary><br>
-  New geldi
-  geldi
-</details>
