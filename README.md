@@ -5,7 +5,8 @@
 
 <br />
 
-<h2>I'm a software developer who develops himself and follows new technologies</h2>
+<h1>I'm a software developer who develops himself and follows new technologies</h1>
+<br>
 
 <details>	
   <summary>About me;</summary>
