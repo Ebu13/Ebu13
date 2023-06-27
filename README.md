@@ -21,7 +21,7 @@
 </details>
 
 <details>	
-  <summary><b><h3 align="left">Languages and Tools:</h3></b></summary><br>
+  <summary><h3 align="left">Languages and Tools:</h3></summary><br>
   <p align="left">
   
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer">
