@@ -6,7 +6,7 @@
 <br />
 
 <h1>I'm a software developer who develops himself and follows new technologies</h1>
-<br>
+<br/>
 
 <details>	
   <summary>About me;</summary>
@@ -22,7 +22,7 @@
 </details>
 
 <details>	
-  <summary>Languages and Tools:</summary><br>
+  <summary>Languages and Tools:</summary><br/>
   <p align="left">
   
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer">
