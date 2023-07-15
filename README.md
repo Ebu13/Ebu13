@@ -5,7 +5,9 @@
 
 <br />
 
-<h1>I'm a software developer who develops himself and follows new technologies</h1>
+<p style="height: 50px">
+      I'm a software developer who develops himself and follows new technologies
+    </p>
 <br/>
 
 <details>	
