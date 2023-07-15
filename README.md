@@ -591,4 +591,10 @@
       </p>
     </details>
 
-<p style="width: 100%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact" alt="ebu13" /></p>
+    <p style="width: 100%">
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact"
+        alt="ebu13"
+      />
+    </p>
