@@ -590,11 +590,11 @@
         </a>
       </p>
     </details>
-    <p style="width: 100%">
-      <img
-        style="width: 100%"
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact"
-        alt="ebu13"
-      />
+    <p style="width: 100%; text-align: center;">
+     <img
+       align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&   layout=compact"
+       alt="ebu13"
+       style="display: inline-block;"
+     />
     </p>
