@@ -31,5 +31,5 @@
 <details>
 <br />
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebu13&theme=radical&langs_count=8" >
+<img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Ebu13&theme=radical&langs_count=8”>
 </details>
