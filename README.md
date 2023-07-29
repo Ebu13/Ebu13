@@ -28,3 +28,7 @@
 </details>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact" alt="ebu13" /></p>
 <br />
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebu13&theme=radical&langs_count=8" >
+</details>
