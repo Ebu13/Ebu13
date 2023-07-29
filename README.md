@@ -29,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact" alt="ebu13" /></p>
 <br />
 <summary>:bulb:Count</summary>
-<img src="https://profile-counter.glitch.me/{Ebu13}/count.svg" alt="Ebu13 :: Visitor's Count" width='250'>
