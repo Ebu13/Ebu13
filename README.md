@@ -462,7 +462,8 @@
 </details>
 
 <details>
-<summary>:bulb: Most Used Languages</summary>
+<summary><p align="center">:bulb: Most Used Languages
+</p></summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=donut-vertical&langs_count=10" alt="ebu13" />
 </p>
