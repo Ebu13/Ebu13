@@ -464,8 +464,6 @@
 <details>
 <summary>:bulb: Most Used Languages</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact" alt="ebu13" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&theme=tokyonight)](https://github.com/ebu13/github-readme-stats)
 </p>
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&theme=tokyonight)](https://github.com/ebu13/github-readme-stats)
