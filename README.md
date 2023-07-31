@@ -465,5 +465,8 @@
 <summary>:bulb: Most Used Languages</summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebu13&show_icons=true&locale=en&layout=compact" alt="ebu13" />
+  
 </p>
 </details>
+
+![Ebu13'nin En Çok Kullandığı Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=10)
