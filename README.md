@@ -5,7 +5,7 @@
 
 <br />
 
-<h1>I'm a software developer who develops himself and follows new technologies</h1>
+## I'm a software developer who develops himself and follows new technologies
 <br/>
 
 <details>	
@@ -461,8 +461,9 @@
     </p>
 </details>
 <details>
-<summary>:bulb: Most Used Languages</summary>
+<summary>Most Used Languages</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=donut-vertical&langs_count=12" alt="ebu13" />
+<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=donut-vertical&langs_count=14" alt="ebu13" />
 </p>
 </details>
