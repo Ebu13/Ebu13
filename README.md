@@ -24,6 +24,6 @@
 <summary>Most Used Languages</summary>
 <p align="center">
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=donut-vertical&langs_count=14" alt="ebu13" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=donut-vertical&langs_count=16" alt="ebu13" />
 </p>
 </details>
