@@ -29,8 +29,6 @@ I'm a software developer who develops himself and follows new technologies
 🎨 Check out my designs on [Dribbble](https://dribbble.com/devebu)
 </p>
 
-
-
 ## Technologies and Tools
 
 <p>
