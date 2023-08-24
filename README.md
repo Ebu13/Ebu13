@@ -3,7 +3,7 @@
   <img alt="GIF videosu" src="./assets/tenor.gif" />
 </div>
 
-# Hi!, I'm Ebubekir! 👋
+# Hi! 👋 I'm Ebubekir! 
 
 I'm a software developer who develops himself and follows new technologies
 
