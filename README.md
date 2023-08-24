@@ -1,10 +1,3 @@
-<div align="center">
-  <img alt="Hello, I'm Ebubekir. I do open-source!" src="./assets/gh-readme-header.png" />
-  <img alt="GIF video" src="./assets/tenor.gif" />
-</div>
-
-<br />
-
 ## I'm a software developer who develops himself and follows new technologies
 <br/>
 
@@ -33,9 +26,9 @@
   <img alt="GIF videosu" src="./assets/tenor.gif" />
 </div>
 
-# Merhaba, Ben Ebubekir! 👋
+# Hi!, I'm Ebubekir! 👋
 
-Yeni teknolojileri öğrenmeyi ve keşfetmeyi seven tutkulu bir yazılım geliştiricisiyim.
+I'm a software developer who develops himself and follows new technologies
 
 ## Hakkımda
 
@@ -48,9 +41,5 @@ Yeni teknolojileri öğrenmeyi ve keşfetmeyi seven tutkulu bir yazılım geliş
 ## Teknolojiler ve Araçlar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=10" alt="En Çok Kullandığım Diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=14" alt="En Çok Kullandığım Diller" />
 </p>
-
-<!-- İşlerinizi, projelerinizi, katkılarınızı sergilemek için daha fazla bölüm eklemekten çekinmeyin. -->
-
-> "Harika iş çıkarmak için yapmanız gereken tek şey, yaptığınız işi sevmektir." - Steve Jobs
