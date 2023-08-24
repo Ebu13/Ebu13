@@ -1,8 +1,7 @@
 <div align="center">
   <img alt="Merhaba, Ben Ebubekir. Açık kaynak geliştiriyorum!" src="./assets/gh-readme-header.png" />
   <img alt="GIF videosu" src="./assets/tenor.gif" />
-</div>
-
+  
 # Hi! 👋 I'm Ebubekir! 
 
 I'm a software developer who develops himself and follows new technologies
@@ -20,3 +19,4 @@ I'm a software developer who develops himself and follows new technologies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=14" alt="En Çok Kullandığım Diller" />
 </p>
+</div>
