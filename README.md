@@ -15,7 +15,7 @@
 - <img alt="GIF video" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" height="15px"/> I love writing code
 - 💬 Ask me about anything to fulldevstudios@gmail.com
 
-- : https://www.linkedin.com/in/ebubekir-nazli-13esn/<a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/"><img align="left" alt="FullDEV Studios | LinkedIn" width="15px" src="https://th.bing.com/th/id/R.c6e65d793756fdfc3e624c0d8294b3de?rik=x8ZxlZMw%2ff9SFw&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG32.png&ehk=GIhs4LNu8TECR%2fJaT7p%2fw1VVVI10%2faqqVVai3oR0qFo%3d&risl=&pid=ImgRaw&r=0" /></a>
+- LinkedIn : https://www.linkedin.com/in/ebubekir-nazli-13esn/<a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/"><img align="left" alt="FullDEV Studios | LinkedIn" width="15px" src="https://th.bing.com/th/id/R.c6e65d793756fdfc3e624c0d8294b3de?rik=x8ZxlZMw%2ff9SFw&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG32.png&ehk=GIhs4LNu8TECR%2fJaT7p%2fw1VVVI10%2faqqVVai3oR0qFo%3d&risl=&pid=ImgRaw&r=0" /></a>
 - To be able to see my designs ;
 - Dribbble : https://dribbble.com/devebu<a href="https://dribbble.com/devebu"><img src="assets/dribbble-logo.png" align="left" alt="FullDEV Studios | Dribbble" width="15px" />
 </a>
@@ -27,3 +27,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=donut-vertical&langs_count=14" alt="ebu13" />
 </p>
 </details>
+
+<div align="center">
+  <img alt="Merhaba, Ben Ebubekir. Açık kaynak geliştiriyorum!" src="./assets/gh-readme-header.png" />
+  <img alt="GIF videosu" src="./assets/tenor.gif" />
+</div>
+
+# Merhaba, Ben Ebubekir! 👋
+
+Yeni teknolojileri öğrenmeyi ve keşfetmeyi seven tutkulu bir yazılım geliştiricisiyim.
+
+## Hakkımda
+
+- 💼 FrontEnd Mühendisi
+- 💻 Kod yazmaktan her zaman heyecan duyarım
+- 📫 Bana ulaşabilirsiniz: fulldevstudios@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ebubekir-nazli-13esn/) üzerinden bağlantı kurabilirsiniz
+- 🎨 Tasarımlarımı [Dribbble](https://dribbble.com/devebu) üzerinde inceleyebilirsiniz
+
+## Teknolojiler ve Araçlar
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=10" alt="En Çok Kullandığım Diller" />
+</p>
+
+<!-- İşlerinizi, projelerinizi, katkılarınızı sergilemek için daha fazla bölüm eklemekten çekinmeyin. -->
+
+> "Harika iş çıkarmak için yapmanız gereken tek şey, yaptığınız işi sevmektir." - Steve Jobs
