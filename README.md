@@ -2,7 +2,7 @@
   <img alt="Hi, I'm Ebubekir. I'm developing open source!" src="./assets/gh-readme-header.png" />
   <img alt="GIF Video" src="./assets/tenor.gif" />
 
-## Technologies and Tools
+<h2>Technologies and Tools</h2>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=14" alt="My Most Used Languages" />
