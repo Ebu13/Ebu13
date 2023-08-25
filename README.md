@@ -31,13 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=14" alt="My Most Used Languages" />
 </p>
 <div>
-<style>
-    .social-links {
-        display: flex;
-        gap: 20px;
-        align-items: center;
-    }
-</style>
 
 <p class="social-links">
     <a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/">
