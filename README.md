@@ -9,7 +9,7 @@
 </p>
 <div>
 
-<p class="social-links">
+<p style="margin-right: 10px;">
     <a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/">
         <img src="assets/linkedin_icon.svg" alt="LinkedIn Icon" width="54" height="54">
     </a><span>     </span>
