@@ -1,11 +1,6 @@
 <div align="center">
   <img alt="Merhaba, Ben Ebubekir. Açık kaynak geliştiriyorum!" src="./assets/gh-readme-header.png" />
   <img alt="GIF videosu" src="./assets/tenor.gif" />
-  
-# Hi! 👋 I'm Ebubekir! 
-
-I'm a software developer who develops himself and follows new technologies
-
 ## About Me
 
 <p>
