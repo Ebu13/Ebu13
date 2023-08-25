@@ -17,7 +17,7 @@
         <img src="assets/email_icon.png" alt="Email Icon" width="54" height="54">
     </a>
     <a href="https://dribbble.com/devebu">
-        <img src="assets/dribbble_icon.svg" alt="Dribbble Icon" width="54" height="54">
+        <img src="assets/dribbble_icon.png" alt="Dribbble Icon" width="54" height="54">
     </a>
 </p>
 
