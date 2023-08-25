@@ -7,8 +7,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=14" alt="My Most Used Languages" />
 </p>
-<div>
-
+<div style="margin-right: 10px;">
 <p>
     <a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/">
         <img src="assets/linkedin_icon.svg" alt="LinkedIn Icon" width="54" height="54">
@@ -20,6 +19,5 @@
         <img src="assets/dribbble_icon.svg" alt="Dribbble Icon" width="54" height="54">
     </a>
 </p>
-
 </div>
 </div>
