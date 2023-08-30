@@ -2,7 +2,7 @@
   <img alt="Hi, I'm Ebubekir. I'm developing open source!" src="./assets/gh-readme-header.png" />
   <img alt="GIF Video" src="./assets/tenor.gif" />
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technologies+and+Tools;&center=true&width=380&height=55"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technologies+and+Tools;&center=true&width=500&height=55"></a>
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=12" alt="My Most Used Languages" />
