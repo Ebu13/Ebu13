@@ -20,7 +20,8 @@
           <img src="assets/dribbble_icon.svg" alt="Dribbble Icon" width="64" height="64">
       </a>
   </p>
-  <p>
+  <>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
   </p>
 </div>
