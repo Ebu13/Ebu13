@@ -1,6 +1,7 @@
 <div align="center">
 
   <img alt="Hi, I'm Ebubekir. I'm developing open source!" src="./assets/gh-readme-header.png" />
+
   <img alt="GIF Video" src="./assets/tenor.gif" />
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technologies+and+Tools;&center=true&width=500&height=55"></a>
@@ -19,5 +20,7 @@
           <img src="assets/dribbble_icon.svg" alt="Dribbble Icon" width="64" height="64">
       </a>
   </p>
+  <p>
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
 </div>
