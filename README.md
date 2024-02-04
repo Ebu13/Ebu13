@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technologies+and+Tools;&center=true&width=500&height=55"></a>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=10" alt="My Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebu13&layout=compact&langs_count=8" alt="My Most Used Languages" />
   </p>
   <p>
       <a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/">
