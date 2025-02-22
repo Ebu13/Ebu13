@@ -11,13 +11,13 @@
   </p>
   <p>
       <a href="https://www.linkedin.com/in/ebubekir-nazli-13esn/">
-          <img src="assets/linkedin_icon.svg" alt="LinkedIn Icon" width="72" height="72">
+          <img src="assets/linkedin_icon.svg" alt="LinkedIn Icon" width="64" height="64">
       </a>
       <a href="mailto:fulldevstudios@gmail.com">
-          <img src="assets/email_icon.svg" alt="Email Icon" width="72" height="72">
+          <img src="assets/email_icon.svg" alt="Email Icon" width="64" height="64">
       </a>
       <a href="https://dribbble.com/devebu">
-          <img src="assets/dribbble_icon.svg" alt="Dribbble Icon" width="72" height="72">
+          <img src="assets/dribbble_icon.svg" alt="Dribbble Icon" width="64" height="64">
       </a>
   </p>
   <p>
